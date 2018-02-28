@@ -3,7 +3,7 @@ What is VSchedule?
 
 
 
-![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/AndroidStudio/VSchedule/screenshots/gif2.gif)
+![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/AndroidStudio/VSchedule/screenshots/open_gif.gif)
 
 
 APIs and Architectures Used:
