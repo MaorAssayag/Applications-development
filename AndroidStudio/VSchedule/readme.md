@@ -1,27 +1,21 @@
  ![alt text](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/AndroidStudio/VSchedule/screenshots/v_logo.png)
 # VSchedule - Task Manager
 
-# What is VSchedule?
+## What is VSchedule?
+This application allows users to keep track of tasks. These tasks include a description and the desire time to the notification. Every task can be deleted. 
 
-![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/AndroidStudio/VSchedule/screenshots/open_gif.gif)
+This app is my first introduction to AndroidStudio. the end goal is to get experience with the implemention of such idea, which will be develop in the future to aid-App for people with disabilities that need such help with remembering those daily tasks.
 
-# APIs and Architectures Used:
+![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/AndroidStudio/VSchedule/screenshots/open_gif.gif)![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/AndroidStudio/VSchedule/screenshots/clock_gif.gif)
 
-This project is greatly inspired by Clean Architecture Principles. Now that I'm more comfortable with RxJava and Dagger 2, I'm confident that I'll be able to execute a modular and highly testable Application on the Android Platform. This project is an attempt to make that idea into an Open Source App.
-    Model View Presenter (Passive View). Keep Views dumb and simple, so that they don't need to be tested much, if at all (I may write some Espresso Tests, but it isn't high on my priority list).
 
-    Clean Architecture. To complex to summarize in a few sentences; but the basic idea is having three layers of an Enterprise App (Presentation, Domain (Use Case), and Data (Service) layers). This seperation does increase the number of Classes, but the advantage is in simplicity, testability, and modularity to name a few.
+## APIs and Architectures Used:
 
-    Dependency Injection Layer. This Layer satisfies creation of Dependencies (such as ReminderService.java) so that each part of the App has what it needs, when it needs it. This also decouples Object creation from Classes which shouldn't really be creating Objects in the first place (Seperation of Concerns).
+* This project is greatly inspired by Clean Architecture Principles. 
+Model View Presenter (Passive View). Keep Views dumb and simple.
 
-    Dagger 2. D.I. Framework which I use to Inject Presenters, as well as to Inject Objects into my Service Layer.
+* Clean Architecture. To complex to summarize in a few sentences; but the basic idea is having three layers of an Enterprise App (Presentation, Domain (Use Case), and Data (Service) layers). This seperation does increase the number of Classes, but the advantage is in simplicity, testability, and modularity to name a few.
 
-    RxJava/RxAndroid 2 for concurrency. Rx allows me to create Data Streams which change over time, based on what happens in each Layer.
-
-    Mockito to help with Unit Testing
-
-    Realm for storing Reminders
-
-    Plenty of System Services Like Vibrator, AlarmManager, MediaPlayer, PowerManager.WakeLock
+* System Services Like AlarmManager
 
 
