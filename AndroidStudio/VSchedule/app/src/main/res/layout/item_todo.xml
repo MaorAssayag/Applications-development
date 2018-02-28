@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/shadow_border"
+    android:layout_gravity="center_vertical">
+
+    <TextView
+        android:id="@+id/task_title"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:layout_marginLeft="7dp"
+        android:text="Hello"
+        android:textColor="@color/colorAccent"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_alignBaseline="@+id/taskTime"
+        android:layout_alignBottom="@+id/taskTime"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="7dp" />
+
+    <ImageButton
+        android:id="@+id/task_delete"
+        style="?attr/imageButtonStyle"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginRight="3dp"
+        android:layout_marginTop="30dp"
+        android:alpha="0.9"
+        android:background="@drawable/button_pressed"
+        android:onClick="deleteTask"
+        android:scaleType="fitXY"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:id="@+id/taskTime"
+        android:layout_width="85dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/task_delete"
+        android:layout_marginEnd="14dp"
+        android:layout_toStartOf="@+id/task_delete"
+        android:text="__ : __"
+        android:textAlignment="textEnd"
+        android:textColor="@color/TextColor"
+        android:textSize="28sp"
+        android:textStyle="bold" />
+
+    <ImageButton
+        android:id="@+id/timePicker"
+        style="?attr/imageButtonStyle"
+        android:layout_width="33dp"
+        android:layout_height="33dp"
+        android:background="@drawable/alarm_icon_pressed"
+        android:onClick="addTime"
+        android:scaleType="centerCrop"
+        android:layout_marginEnd="77dp"
+        android:layout_alignBottom="@+id/task_delete"
+        android:layout_alignEnd="@+id/taskTime" />
+
+</RelativeLayout>

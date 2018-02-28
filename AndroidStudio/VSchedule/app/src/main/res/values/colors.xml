@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00fefeff</color>
+    <color name="colorPrimaryDark">#deef5e7b</color>
+    <color name="colorAccent">#ddef5e7b</color>
+    <color name="white">#ffffff</color>
+    <color name="greyBackground">#f4f3f3</color>
+    <color name="grey">#f8f8fa</color>
+    <color name="Vcolor">#7fa87f</color>
+    <color name="colorAccent_moretransperent">#9def5e7b</color>
+    <color name="TextColor">#9eb10219</color>
+    <color name="TextColor2">#cfb10219</color>
+</resources>
