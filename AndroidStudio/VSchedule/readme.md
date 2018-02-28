@@ -4,7 +4,8 @@
 ## What is VSchedule?
 - This application allows users to keep track of tasks. These tasks include a description and the desire time to the notification. Every task can be deleted. 
 
-- This app is my first introduction to AndroidStudio. The end goal is to get experience with the implemention of such idea, which will be develop in the future to aid-App for people with disabilities that need such help with remembering those daily tasks.
+#### This app is my first introduction to AndroidStudio.
+- The end goal is to get experience with the implemention of such idea, which will be develop in the future to aid-App for people with disabilities that need such help with remembering those daily tasks.
 
 ### Splash screen
 ![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/AndroidStudio/VSchedule/screenshots/open_gif.gif)
@@ -31,7 +32,7 @@
 ## General & API 
 
 ![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/AndroidStudio/VSchedule/screenshots/buttons_gif.gif)
-### User Interface Sensitivity - paying attention to little details
+#### User Interface Sensitivity - paying attention to little details
 
 * Photoshop logo & buttons design
 
