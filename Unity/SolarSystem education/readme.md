@@ -20,17 +20,16 @@
 
 
 ## Architectures Used and Topics 
-* System Services Like AlarmManager, NotificationManager
 
-* ListView , Cursor and Cursor Adapter
+* simple scripts with C#
 
-* Hashmap (was used before in SPL projects)
+* 3D enviorment design
 
-* SQL database desgien, mentainence & use
+* Mesh renderer
 
-* AlertDialog , TimePickerDialog
+* Panels, Extesive use of Camera POV & Direcotns.
 
-* XML editing, constraint layouts etc'
+* Buttons Event Listener
 
 ### The moon Point Of View - learn what is 'a month' 
 ![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/Unity/SolarSystem%20education/Screenshots/gifs/moon_gif.gif)
