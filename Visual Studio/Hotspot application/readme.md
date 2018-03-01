@@ -1,4 +1,6 @@
-# About  
+# Hotspot Light
+
+## About  
   * Creating a HOTSPOT network from your computer (if there is a valid hardware and drivers) in windows 8 and below.
   * C# design in visual studio platform.
   
