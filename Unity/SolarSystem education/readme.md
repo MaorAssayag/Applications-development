@@ -1,40 +1,45 @@
- ![alt text](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/AndroidStudio/VSchedule/screenshots/v_logo.png)
+ ![alt text](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/Unity/SolarSystem%20education/Screenshots/applogo.png)
 # SolarSystem education
 
 ## What is SolarSystem eduction?
 - This is a simulation of our Solar System. A 3D envoirment developed with Unity3d framework, and Scripts developed on Visual Studio (C#).
 
-   #### This app is my first introduction to Unity & 3D envoirment design.
+   #### This app is my first introduction to Unity & 3D envoirment desigen.
 - The end goal is to get experience with the implemention of such idea, which will be develop in the future to Augmented reality (AR) application (not a complex convertion).
 
 - The application allows users to observe the various planets while listening to an interesting musical segment. On the left side are interesting facts about the current star, which can be eliminated if necessary. This application enables the visualization of astrophysical ideas such as the cycle of the year, month, day and night, etc.
 
 ### Splash screen
-![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/AndroidStudio/VSchedule/screenshots/open_gif.gif)
+![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/Unity/SolarSystem%20education/Screenshots/gifs/splash_gif.gif)
 
 ### Bar enabled/disabled
-![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/AndroidStudio/VSchedule/screenshots/add_gif.gif)
+![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/Unity/SolarSystem%20education/Screenshots/gifs/bar_gif.gif)
 
 ### inetractive star Point-Of-View 
-![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/AndroidStudio/VSchedule/screenshots/clock_gif.gif)
+![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/Unity/SolarSystem%20education/Screenshots/gifs/planets_gif.gif)
 
 
 ## Architectures Used and Topics 
+* System Services Like AlarmManager, NotificationManager
 
-* Panels, Buttons, Events-click
+* ListView , Cursor and Cursor Adapter
 
-* 3D enviorment design
+* Hashmap (was used before in SPL projects)
 
-* Mesh Renderer, Extensive use of cameras & directions
+* SQL database desgien, mentainence & use
+
+* AlertDialog , TimePickerDialog
+
+* XML editing, constraint layouts etc'
 
 ### The moon Point Of View - learn what is 'a month' 
-![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/AndroidStudio/VSchedule/screenshots/clock_gif.gif)
+![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/Unity/SolarSystem%20education/Screenshots/gifs/moon_gif.gif)
 
 ### Unity3D enviorment 
-![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/AndroidStudio/VSchedule/screenshots/clock_gif.gif)
+![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/Unity/SolarSystem%20education/Screenshots/gifs/env_gif.gif)
 
 ### Unity3D enviorment 
-![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/AndroidStudio/VSchedule/screenshots/clock_gif.gif)
+![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/Unity/SolarSystem%20education/Screenshots/gifs/env2_gif.gif)
 
 ## General & API 
 
