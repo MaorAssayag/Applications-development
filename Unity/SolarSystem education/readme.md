@@ -1,20 +1,23 @@
  ![alt text](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/AndroidStudio/VSchedule/screenshots/v_logo.png)
-# VSchedule - Task Manager
+# SolarSystem education
 
-## What is VSchedule?
-- This application allows users to keep track of tasks. These tasks include a description and the desire time to the notification. Every task can be deleted. 
+## What is SolarSystem eduction?
+- This is a simulation of our Solar System. A 3D envoirment developed with Unity3d framework, and Scripts developed on Visual Studio (C#).
 
-   #### This app is my first introduction to AndroidStudio.
-- The end goal is to get experience with the implemention of such idea, which will be develop in the future to aid-App for people with disabilities that need such help with remembering those daily tasks.
+   #### This app is my first introduction to Unity & 3D envoirment desigen.
+- The end goal is to get experience with the implemention of such idea, which will be develop in the future to Augmented reality (AR) application (not a complex convertion).
+
+- The application allows users to observe the various planets while listening to an interesting musical segment. On the left side are interesting facts about the current star, which can be eliminated if necessary. This application enables the visualization of astrophysical ideas such as the cycle of the year, month, day and night, etc.
 
 ### Splash screen
 ![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/AndroidStudio/VSchedule/screenshots/open_gif.gif)
 
-### Add task button
+### Bar enabled/disabled
 ![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/AndroidStudio/VSchedule/screenshots/add_gif.gif)
 
-### inetractive time selcetor 
+### inetractive star Point-Of-View 
 ![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/AndroidStudio/VSchedule/screenshots/clock_gif.gif)
+
 
 ## Architectures Used and Topics 
 * System Services Like AlarmManager, NotificationManager
@@ -29,18 +32,22 @@
 
 * XML editing, constraint layouts etc'
 
+### The moon Point Of View - learn what is 'a month' 
+![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/AndroidStudio/VSchedule/screenshots/clock_gif.gif)
+
+### Unity3D enviorment 
+![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/AndroidStudio/VSchedule/screenshots/clock_gif.gif)
+
+### Unity3D enviorment 
+![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/AndroidStudio/VSchedule/screenshots/clock_gif.gif)
+
 ## General & API 
 
-![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/AndroidStudio/VSchedule/screenshots/buttons_gif.gif)
-#### User Interface Sensitivity - paying attention to little details
-
-* Photoshop logo & buttons design
-
-* API 26, Using an emulator
+* Photoshop logo, buttons, stars icon & facts segment design
 
 * Log system & get use to the framework.
 
-* Android Studio v2.3.3 , JRE : 1.8 amd64
+* Unity v2017.1.1
 
 ## License
 * All the content is free to use (i primarily learned how to build Profiler by learning from free sources and referencing open source libraries) , excepet the photoshop files(Buttons, app logo) which is are my intellectual creations.
