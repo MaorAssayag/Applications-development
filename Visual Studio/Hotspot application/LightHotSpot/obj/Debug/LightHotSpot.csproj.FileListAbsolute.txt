@@ -1,0 +1,9 @@
+c:\users\maorassayag18\documents\visual studio 2017\Projects\LightHotSpot\LightHotSpot\bin\Debug\LightHotSpot.exe.config
+c:\users\maorassayag18\documents\visual studio 2017\Projects\LightHotSpot\LightHotSpot\bin\Debug\LightHotSpot.exe
+c:\users\maorassayag18\documents\visual studio 2017\Projects\LightHotSpot\LightHotSpot\bin\Debug\LightHotSpot.pdb
+c:\users\maorassayag18\documents\visual studio 2017\Projects\LightHotSpot\LightHotSpot\obj\Debug\LightHotSpot.csprojResolveAssemblyReference.cache
+c:\users\maorassayag18\documents\visual studio 2017\Projects\LightHotSpot\LightHotSpot\obj\Debug\LightHotSpot.Form1.resources
+c:\users\maorassayag18\documents\visual studio 2017\Projects\LightHotSpot\LightHotSpot\obj\Debug\LightHotSpot.Properties.Resources.resources
+c:\users\maorassayag18\documents\visual studio 2017\Projects\LightHotSpot\LightHotSpot\obj\Debug\LightHotSpot.csproj.GenerateResource.Cache
+c:\users\maorassayag18\documents\visual studio 2017\Projects\LightHotSpot\LightHotSpot\obj\Debug\LightHotSpot.exe
+c:\users\maorassayag18\documents\visual studio 2017\Projects\LightHotSpot\LightHotSpot\obj\Debug\LightHotSpot.pdb
