@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarSystem education", "SolarSystem education.csproj", "{D4950967-D297-426A-9CA9-C3C018C16730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4950967-D297-426A-9CA9-C3C018C16730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4950967-D297-426A-9CA9-C3C018C16730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4950967-D297-426A-9CA9-C3C018C16730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4950967-D297-426A-9CA9-C3C018C16730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
