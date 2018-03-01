@@ -5,7 +5,8 @@
 - This application allows users to keep track of tasks. These tasks include a description and the desire time to the notification. Every task can be deleted. 
 <a href="https://github.com/MaorAssayag/Additional-Apps-Projects/tree/master/AndroidStudio/VSchedule">link</a>
 
-    ![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/AndroidStudio/VSchedule/screenshots/add_gif.gif)
+    ![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/AndroidStudio/VSchedule/screenshots/clock_gif.gif)
+
 
 
 # Unity
