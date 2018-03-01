@@ -1,4 +1,4 @@
-
+ ![alt text](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/Unity/SolarSystem%20education/Screenshots/applogo.png)
 # SolarSystem education
 
 ## What is SolarSystem eduction?
