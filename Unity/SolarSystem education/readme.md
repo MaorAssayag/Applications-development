@@ -1,4 +1,4 @@
-<img src="https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/Unity/SolarSystem%20education/Screenshots/applogo.png" alt="alt text" width="150" height="150">
+<img src="https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/Unity/SolarSystem%20education/Screenshots/applogo.png" alt="alt text" width="200" height="200">
 
 # SolarSystem education
 
