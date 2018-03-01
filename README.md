@@ -1,7 +1,27 @@
-# Oops! :/
-  If you see this then this repositorie isn't been update since early 2017.
-  
-  Since then I've developed applications on Android Studio & Education apps on Unity.
-  
-  Hope to find the time soon to share those here :)
-  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/2000px-Android_Studio_icon.svg.png" alt="alt text" width="150" height="150">
+# Android Studio
+
+## VSchedule - Task Manager
+
+- This application allows users to keep track of tasks. These tasks include a description and the desire time to the notification. Every task can be deleted. 
+
+link
+
+
+<img src="http://ramydeeb.com/wp-content/uploads/2016/03/unity-logo.png" alt="alt text" width="500" height="150">
+# Unity
+
+## SolarSystem education
+
+- This is a simulation of our Solar System. A 3D envoirment developed with Unity3d framework, and Scripts developed on Visual Studio (C#).
+
+link
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Visual_Studio_2017_logo_and_wordmark.svg/2000px-Visual_Studio_2017_logo_and_wordmark.svg.png" alt="alt text" width="500" height="150">
+# Visual Studio
+
+## Hotspot Light
+
+- Creating a HOTSPOT network from your computer (if there is a valid hardware and drivers) in windows 8 and below.
+
+link 
