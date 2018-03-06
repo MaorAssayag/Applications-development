@@ -17,10 +17,7 @@
 <a href="https://github.com/MaorAssayag/Additional-Apps-Projects/tree/master/Unity/SolarSystem%20education">link</a>
 
   ![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/Unity/SolarSystem%20education/Screenshots/gifs/moon_gif.gif)
-.
-.
-.
-.
+
 
 # Visual Studio
 ## Hotspot Light
