@@ -28,9 +28,9 @@
 
 * Mesh renderer
 
-* Panels, Extesive use of Camera POV & Direcotns.
+* Panels, Extensive use of Camera POV & Directions.
 
-* Buttons Event Listener
+* Button event listeners
 
 ### The moon Point Of View - learn what is 'a month' 
 ![Output sample](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/Unity/SolarSystem%20education/Screenshots/gifs/moon_gif.gif)
