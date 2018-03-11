@@ -43,7 +43,7 @@
 * Android Studio v2.3.3 , JRE : 1.8 amd64
 
 ## License
-* All the content is free to use (i primarily learned how to build Profiler by learning from free sources and referencing open source libraries) , excepet the photoshop files(Buttons, app logo) which is are my intellectual creations.
+* All the content is free to use (i primarily learned from free sources and referencing open source libraries) , excepet the photoshop files(Buttons, app logo) which is are my intellectual creations.
 
 
 * Copyright 2018, The Android Open Source Project
