@@ -20,10 +20,22 @@
 
 
 # Visual Studio
+## Communication Terminal Application
+
+- My first introduction to visual studio application design, took place as a final project in a Computer Engineering course
+- designing the User interface from scratch (even the exit&minimize buttons), interactive UI etc'..
+- Full embedded with a microcontroller(C & C#), full description of the assignment in Hebrew
+
+    <a href="https://github.com/MaorAssayag/Computer-Engineering-Projects/tree/master/Communication%20Terminal%20Application">link</a>
+
+![alt text](https://github.com/MaorAssayag/Digital-Computer-Structure-projects/blob/master/Communication%20Terminal%20Application/png1.PNG)
+
+
 ## Hotspot Light
 
 - Creating a HOTSPOT network from your computer (if there is a valid hardware and drivers) in windows 8 and below.
 <a href="https://github.com/MaorAssayag/Additional-Apps-Projects/tree/master/Visual%20Studio/Hotspot%20application">link</a>
 
 ![alt text](https://github.com/MaorAssayag/Additional-Apps-Projects/blob/master/Visual%20Studio/Hotspot%20application/example2.png)
+
 
