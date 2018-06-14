@@ -21,7 +21,7 @@
 
 * ListView , Cursor and Cursor Adapter
 
-* Hashmap (was used before in SPL projects)
+* Hashmap (used in the past in SPL projects)
 
 * SQL database desgien, mentainence & use
 
